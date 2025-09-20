@@ -1,5 +1,5 @@
 ### Problem 4 (REST API)
-- **Problem 4** → *Rest API* (Question 1)
+- **Problem 4** is *Rest API* (Question 1) from the questions document
 
 **Files:**
 - `FoodOutletController.java`
